@@ -1,0 +1,17 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background-color:rgb(14, 73, 136);
+    border-radius:50px;
+   }
+
+   h1 {
+    color: rgb(36, 20, 135);
+    inline-size: 100%;
+    display: flex-block;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+ }        

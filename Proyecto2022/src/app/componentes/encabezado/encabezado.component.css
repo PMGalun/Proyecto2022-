@@ -53,5 +53,9 @@
           }
            /*Para vista celular*/
      @media(max-width:575px){
+      .container{
+         flex-direction: column;
+        
+      }
       
                 }

@@ -1,0 +1,14 @@
+div{
+    background-color:rgb(14, 73, 136);
+    border-radius:50px;
+  }
+  
+  
+  footer{
+    color:#FFFFFF;
+    font-size: 10px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    box-sizing: 2px 2px 5px silver;
+  }

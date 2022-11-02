@@ -1,0 +1,36 @@
+div{
+    background-color:rgb(14, 73, 136);
+    border-radius:50px;
+   }
+
+   h2 {
+    display: inline;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;}
+
+h3{
+display: inline;
+font-size:large;
+font-style: italic;
+
+}
+
+#APloui{
+width: 100px;   
+height:100px;
+float: left;
+margin: 10px 10px;
+border-radius: 10px 10px 10px
+}  
+
+
+
+h1 {
+    color: rgb(36, 20, 135);
+    inline-size: 100%;
+    display: flex-block;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+ }        
