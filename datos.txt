@@ -1,0 +1,20 @@
+C:\Users\patto\ARG PROG INTENTOS\C:\Users\patto\ARG PROG INTENTOS\Proyecto2022
+
+GITHUB Proyecto2022*
+
+ANGULAR Proyecto2022
+
+BD Proyecto2022
+
+
+
+
+
+
+//////////////////////////////////////
+<div> <button type="button" class="btn btn-info">Proyectos</button></div>           
+<div id="info-actions">
+   
+<button type="button" class="btn btn secondary">Añadir Seccion</button>
+<button type="button" class="btn btn sucess">Mas</button>           
+</div>

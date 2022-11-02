@@ -1,0 +1,47 @@
+.row{
+    padding: 20px;
+  }
+    
+  div{
+      background-color:rgb(14, 73, 136);
+      text-align: center;
+      border-radius:50px;
+     }
+  
+
+ /*Estilo fto de Perfil*/
+@media (min-width: 576px){
+    #mifoto {
+        position:absolute;
+        width: 15%; 
+        border-radius: 100px;
+        box-shadow: 3px 3px 3px  rgb(85, 55, 194);
+        left: 4%;
+        top: 300px;
+}}
+
+
+@media(max-width:575px){
+    #mifoto {
+        position:absolute;
+        width: 30%; 
+        border-radius: 100px;
+        box-shadow: 3px 3px 3px  rgb(85, 55, 194);
+        left: 3%;
+        top: 250px;
+}}
+
+        /*ETIQUETA NOMBRE*/
+   #nombre{
+    font-weight: bold;
+    margin-top: 30px
+      }
+
+      h1 {
+        color: rgb(36, 20, 135);
+        inline-size: 100%;
+        display: flex-block;
+        font-size: xx-large;
+        font-style: italic;
+        text-align: center;
+     }        
